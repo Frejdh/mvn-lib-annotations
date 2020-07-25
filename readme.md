@@ -26,4 +26,4 @@ All of the available classes can be found [here](https://github.com/frejdh/mvn-l
 ```
 
 ## Other libraries
-[Search for my public github libraries here](https://github.com/search?q=Frejdh%2Fmvn-lib-).
+[Search for my other public libraries here](https://github.com/search?q=Frejdh%2Fmvn-lib-).
