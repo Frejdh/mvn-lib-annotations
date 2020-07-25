@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.frejdh.util.common</groupId>
+  <artifactId>annotations</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200725113251</lastUpdated>
+  </versioning>
+</metadata>
